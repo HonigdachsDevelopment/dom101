@@ -4,8 +4,8 @@
 
 > DOM manipulation utilities
 
-dom101 is a set of utilities for manipulating the DOM as single files.<br>
-*aka: Stop using jQuery.*
+domUnquery is a set of utilities for manipulating the DOM as single files instead of using JQUER>.<br>
+
 
 ```js
 var addClass = require('dom101/add-class');
